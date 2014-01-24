@@ -1,0 +1,3779 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Survey>
+<Status xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Code>26</Code>
+<Store>
+<Id>73565</Id>
+<Name>DHF</Name>
+</Store>
+<Users>
+<User>
+<Username>Reginaldo</Username>
+<DeviceCode>1</DeviceCode>
+</User>
+</Users>
+<Questions>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10028</Id>
+<Name>(V) CAFE PO BARAO 500G-PC</Name>
+<Eans>
+<Ean>
+<Code>10028</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100121</Id>
+<Name>(V) DETERG LIQ YPE 500ML-FR</Name>
+<Eans>
+<Ean>
+<Code>100121</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100240</Id>
+<Name>(V) CAFE PO 3CORACOES 250G-PC</Name>
+<Eans>
+<Ean>
+<Code>100240</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100241</Id>
+<Name>(V) CAFE PO 3CORACOES 500G-PC</Name>
+<Eans>
+<Ean>
+<Code>100241</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100242</Id>
+<Name>(V) CAFE VACUO 3CORACOES 500G-CX</Name>
+<Eans>
+<Ean>
+<Code>100242</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100455</Id>
+<Name>(V) DESINF PINHO SOL 500ML-FR</Name>
+<Eans>
+<Ean>
+<Code>100455</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100645</Id>
+<Name>(V) FAR TRIGO BOA SORTE ESP 1KG-PC</Name>
+<Eans>
+<Ean>
+<Code>100645</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100700</Id>
+<Name>(V) VODKA ORLOFF 1L-GF</Name>
+<Eans>
+<Ean>
+<Code>100700</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100833</Id>
+<Name>(V) BOMB NESTLE ESPECIALID 400G-CX</Name>
+<Eans>
+<Ean>
+<Code>100833</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7382</Id>
+<Name>BOMBONIERE</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100973</Id>
+<Name>(V) CERVEJA SKOL LN-355ML PILSEN</Name>
+<Eans>
+<Ean>
+<Code>100973</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100974</Id>
+<Name>(V) CERVEJA BRAHMA LT-350ML</Name>
+<Eans>
+<Ean>
+<Code>100974</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100979</Id>
+<Name>(V) CERVEJA SKOL LT-350ML</Name>
+<Eans>
+<Ean>
+<Code>100979</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100981</Id>
+<Name>(V) CERVEJA SKOL LT-473ML</Name>
+<Eans>
+<Ean>
+<Code>100981</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100993</Id>
+<Name>(V) REFRIG DELREY 2L-PET</Name>
+<Eans>
+<Ean>
+<Code>100993</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1001012</Id>
+<Name>(V) REFRIG PEPSI LT-350ML COLA</Name>
+<Eans>
+<Ean>
+<Code>1001012</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1001044</Id>
+<Name>(V) REFRIG PEPSI PET-2L COLA</Name>
+<Eans>
+<Ean>
+<Code>1001044</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1001073</Id>
+<Name>(V) LEITE COND MOCA 395G-LT TRAD</Name>
+<Eans>
+<Ean>
+<Code>1001073</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5398</Id>
+<Name>CONFEITARIA-PAD LINHA DOM</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1001137</Id>
+<Name>(V) REFRIG ANTARCTICA PET-2L GUARANA</Name>
+<Eans>
+<Ean>
+<Code>1001137</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1001144</Id>
+<Name>(V) REFRIG ANTARCTICA LT-350ML</Name>
+<Eans>
+<Ean>
+<Code>1001144</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1001171</Id>
+<Name>(V) CERVEJA HEINEKEN LT-350ML</Name>
+<Eans>
+<Ean>
+<Code>1001171</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1001172</Id>
+<Name>(V) CERVEJA KAISER LT-350ML PILSEN</Name>
+<Eans>
+<Ean>
+<Code>1001172</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1001178</Id>
+<Name>(V) REFRIG COCA LT-350ML COLA ZERO</Name>
+<Eans>
+<Ean>
+<Code>1001178</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1001243</Id>
+<Name>(V) DETERG LIQ LIMPOL 500ML-FR</Name>
+<Eans>
+<Ean>
+<Code>1001243</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1001255</Id>
+<Name>(V) ESPONJA LA ACO BOMBRIL 60G-PC C8</Name>
+<Eans>
+<Ean>
+<Code>1001255</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1001633</Id>
+<Name>(V) AMAC ROUPA COMFORT 2L-FR</Name>
+<Eans>
+<Ean>
+<Code>1001633</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1001678</Id>
+<Name>(V) DETERG PO OMO 500G-CX</Name>
+<Eans>
+<Ean>
+<Code>1001678</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1001751</Id>
+<Name>(V) SAB LUX SV HID 90G</Name>
+<Eans>
+<Ean>
+<Code>1001751</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7009</Id>
+<Name>CORPO E ROSTO</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1002005</Id>
+<Name>(V) SH SEDA 350ML-FR</Name>
+<Eans>
+<Ean>
+<Code>1002005</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6964</Id>
+<Name>CABELOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1002047</Id>
+<Name>(V) FAR TRIGO VILMA ESP 1KG-PC</Name>
+<Eans>
+<Ean>
+<Code>1002047</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1002066</Id>
+<Name>(V) ARROZ L FINO CAMIL 5KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>1002066</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1002085</Id>
+<Name>(V) FEIJAO CARIOCA PINK 1KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>1002085</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1002088</Id>
+<Name>(V) FEIJAO PTO PINK 1KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>1002088</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1002143</Id>
+<Name>(V) ACEM PECA KG</Name>
+<Eans>
+<Ean>
+<Code>1002143</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5935</Id>
+<Name>ACOUGUE</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1002148</Id>
+<Name>(V) ALCATRA/MAMINHA KG PECA</Name>
+<Eans>
+<Ean>
+<Code>1002148</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5935</Id>
+<Name>ACOUGUE</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1002258</Id>
+<Name>(V) LIMP VEJA M-USO 500ML-SQZ</Name>
+<Eans>
+<Ean>
+<Code>1002258</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1002268</Id>
+<Name>(V) CONTRA FILE PECA KG</Name>
+<Eans>
+<Ean>
+<Code>1002268</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5935</Id>
+<Name>ACOUGUE</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1002359</Id>
+<Name>(V) PEITO BOV PECA KG</Name>
+<Eans>
+<Ean>
+<Code>1002359</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5935</Id>
+<Name>ACOUGUE</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1002429</Id>
+<Name>(V) MARG QUALY 500G-PT</Name>
+<Eans>
+<Ean>
+<Code>1002429</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6228</Id>
+<Name>P.A.S.</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1002698</Id>
+<Name>(V) SALSICHA SADIA HOT-DOG KG SAH</Name>
+<Eans>
+<Ean>
+<Code>1002698</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5935</Id>
+<Name>ACOUGUE</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1003321</Id>
+<Name>(V) BOMB LACTA GDES SUCESSOS 400G-CX</Name>
+<Eans>
+<Ean>
+<Code>1003321</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7382</Id>
+<Name>BOMBONIERE</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1003328</Id>
+<Name>(V) CHOC LACTA BIS 20UN-CX</Name>
+<Eans>
+<Ean>
+<Code>1003328</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7382</Id>
+<Name>BOMBONIERE</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1003620</Id>
+<Name>(V) ARROZ L FINO TIO JOAO 5KG-PC</Name>
+<Eans>
+<Ean>
+<Code>1003620</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1004435</Id>
+<Name>(V) FEIJAO CARIOCA GALANTE 1KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>1004435</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1004513</Id>
+<Name>(V) ACHOC PO TODDY 400G-PT</Name>
+<Eans>
+<Ean>
+<Code>1004513</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1004516</Id>
+<Name>(V) ACHOC PO TODDY 800G-PT</Name>
+<Eans>
+<Ean>
+<Code>1004516</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1004525</Id>
+<Name>(V) BEB LAC TODDYNHO 200ML-TP</Name>
+<Eans>
+<Ean>
+<Code>1004525</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6228</Id>
+<Name>P.A.S.</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1004543</Id>
+<Name>(V) BOMB GAROTO SORT 400G-CX</Name>
+<Eans>
+<Ean>
+<Code>1004543</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7382</Id>
+<Name>BOMBONIERE</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1005221</Id>
+<Name>(V) LEITE LVIDA COTOCHES 1L-TP</Name>
+<Eans>
+<Ean>
+<Code>1005221</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6228</Id>
+<Name>P.A.S.</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1005269</Id>
+<Name>(V) LEITE LVIDA ITAMBE 1L-TP</Name>
+<Eans>
+<Ean>
+<Code>1005269</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6228</Id>
+<Name>P.A.S.</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1005279</Id>
+<Name>(V) LEITE LVIDA ITAMBE 1L-TP S-DESNAT</Name>
+<Eans>
+<Ean>
+<Code>1005279</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6228</Id>
+<Name>P.A.S.</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1005283</Id>
+<Name>(V) MANTEIGA ITAMBE 500G-PT 1º QUALID</Name>
+<Eans>
+<Ean>
+<Code>1005283</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6228</Id>
+<Name>P.A.S.</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1005442</Id>
+<Name>(V) ARROZ L FINO PRATO FINO 5KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>1005442</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1005460</Id>
+<Name>(V) ACUCAR REF UNIAO 1KG-PC</Name>
+<Eans>
+<Ean>
+<Code>1005460</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>1008343</Id>
+<Name>(V) ARROZ L FINO TIA JU 5KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>1008343</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10011060</Id>
+<Name>(V) CAFE PO PILAO 500G-PC</Name>
+<Eans>
+<Ean>
+<Code>10011060</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10020300</Id>
+<Name>(V) FILE MERLUZA 1KG CONG</Name>
+<Eans>
+<Ean>
+<Code>10020300</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6010</Id>
+<Name>PEIXARIA</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10025700</Id>
+<Name>(V) DESINF PINHO SOL 1L-FR</Name>
+<Eans>
+<Ean>
+<Code>10025700</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10053169</Id>
+<Name>(V) FEIJAO CARIOCA TRYUMPHO 1KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>10053169</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10055806</Id>
+<Name>(V) FEIJAO CARIOCA TRYUMPHO 5KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>10055806</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10055854</Id>
+<Name>(V) FD T MONICA TRIPLA-PROT JUMBO</Name>
+<Eans>
+<Ean>
+<Code>10055854</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7071</Id>
+<Name>LINHA INFANTIL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10056188</Id>
+<Name>(V) MUSSARELA KG</Name>
+<Eans>
+<Ean>
+<Code>10056188</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7730</Id>
+<Name>SALSICHARIA</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10056623</Id>
+<Name>(V) ACUCAR REF NEVE 1KG-PC</Name>
+<Eans>
+<Ean>
+<Code>10056623</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10057748</Id>
+<Name>(V) LASANHA SADIA 650G-CX</Name>
+<Eans>
+<Ean>
+<Code>10057748</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6228</Id>
+<Name>P.A.S.</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10057948</Id>
+<Name>(V) LEITE LVIDA 1L-TP</Name>
+<Eans>
+<Ean>
+<Code>10057948</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6228</Id>
+<Name>P.A.S.</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10058882</Id>
+<Name>(V) LEITE LVIDA CEMIL 1L-TP</Name>
+<Eans>
+<Ean>
+<Code>10058882</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6228</Id>
+<Name>P.A.S.</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10062820</Id>
+<Name>(V) FILE PEITO FGO BIG-FRANGO KG CONG</Name>
+<Eans>
+<Ean>
+<Code>10062820</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7718</Id>
+<Name>AVES DIVERSAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10064066</Id>
+<Name>(V) DETERG PO OMO 1KG-CX</Name>
+<Eans>
+<Ean>
+<Code>10064066</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10064223</Id>
+<Name>(V) REFRIG COCA PET-1,5L</Name>
+<Eans>
+<Ean>
+<Code>10064223</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10064321</Id>
+<Name>(V) MUSSARELA PORTO ALEG KG TRAD</Name>
+<Eans>
+<Ean>
+<Code>10064321</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7730</Id>
+<Name>SALSICHARIA</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10066065</Id>
+<Name>(V) ACHOC PO NESCAU 400G-LT</Name>
+<Eans>
+<Ean>
+<Code>10066065</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10068554</Id>
+<Name>(V) CERVEJA HEINEKEN PREM LN-355ML</Name>
+<Eans>
+<Ean>
+<Code>10068554</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10069639</Id>
+<Name>(V) SALSICHA HOT-DOG KG RESFD</Name>
+<Eans>
+<Ean>
+<Code>10069639</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5935</Id>
+<Name>ACOUGUE</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10069735</Id>
+<Name>(V) CAFE PO FINO-GRAO 500G-PC</Name>
+<Eans>
+<Ean>
+<Code>10069735</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10071333</Id>
+<Name>(V) REFRIG ANTARCTICA PET-2L SODA</Name>
+<Eans>
+<Ean>
+<Code>10071333</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10074833</Id>
+<Name>(V) CAFE PO 3CORACOES 500G-PC FORT</Name>
+<Eans>
+<Ean>
+<Code>10074833</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10074929</Id>
+<Name>(V) MAIONESE HELLMANNS 500G-PET</Name>
+<Eans>
+<Ean>
+<Code>10074929</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5227</Id>
+<Name>CONSERVAS-CONDIMENTOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10076012</Id>
+<Name>(V) CERVEJA STELLA ARTOIS LN-275ML</Name>
+<Eans>
+<Ean>
+<Code>10076012</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10076314</Id>
+<Name>(V) PEITO FGO CONG KG IN NATURA</Name>
+<Eans>
+<Ean>
+<Code>10076314</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7718</Id>
+<Name>AVES DIVERSAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10076339</Id>
+<Name>(V) DETERG PO TIXAN 1KG-CX</Name>
+<Eans>
+<Ean>
+<Code>10076339</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10077943</Id>
+<Name>(V) PERNIL SUINO C/OSSO CONG KG</Name>
+<Eans>
+<Ean>
+<Code>10077943</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5935</Id>
+<Name>ACOUGUE</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10079558</Id>
+<Name>(V) ARROZ L FINO PILECCO 5KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>10079558</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10079932</Id>
+<Name>(V) CERVEJA BRAHMA LT-473ML</Name>
+<Eans>
+<Ean>
+<Code>10079932</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10080148</Id>
+<Name>(V) OLEO SOJA LIZA 900ML-PET</Name>
+<Eans>
+<Ean>
+<Code>10080148</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10080166</Id>
+<Name>(V) CERVEJA ITAIPAVA LT-473ML</Name>
+<Eans>
+<Ean>
+<Code>10080166</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10082469</Id>
+<Name>(V) ACHOC PO NESCAU 2.0 800G-SACHE</Name>
+<Eans>
+<Ean>
+<Code>10082469</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10083355</Id>
+<Name>(V) PICANHA TRAD KG</Name>
+<Eans>
+<Ean>
+<Code>10083355</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5935</Id>
+<Name>ACOUGUE</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10084143</Id>
+<Name>(V) CAFE VACUO 3CORACOES PREM 500G-CX</Name>
+<Eans>
+<Ean>
+<Code>10084143</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10084703</Id>
+<Name>(V) ACUCAR CRISTAL CAETE 5KG-PC</Name>
+<Eans>
+<Ean>
+<Code>10084703</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10085394</Id>
+<Name>(V) DETERG PO ARIEL OXIAZUL 1KG-CX</Name>
+<Eans>
+<Ean>
+<Code>10085394</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10085740</Id>
+<Name>(V) OLEO SOJA 900ML-PET</Name>
+<Eans>
+<Ean>
+<Code>10085740</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10086746</Id>
+<Name>(V) REFRIG COCA PET-1,5L COLA</Name>
+<Eans>
+<Ean>
+<Code>10086746</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10086751</Id>
+<Name>(V) REFRIG COCA LT-350ML COLA</Name>
+<Eans>
+<Ean>
+<Code>10086751</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10086825</Id>
+<Name>(V) FEIJAO CARIOCA APETITE 5KG-PC</Name>
+<Eans>
+<Ean>
+<Code>10086825</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10087159</Id>
+<Name>(V) REFRIG COCA PET-2L ZERO</Name>
+<Eans>
+<Ean>
+<Code>10087159</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10087377</Id>
+<Name>(V) CERVEJA SKOL LT-269ML</Name>
+<Eans>
+<Ean>
+<Code>10087377</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10089436</Id>
+<Name>(V) CERVEJA STELLA ARTOIS LT-269ML</Name>
+<Eans>
+<Ean>
+<Code>10089436</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10090611</Id>
+<Name>(V) CERVEJA ANTARCTICA SUBZERO LT-350ML</Name>
+<Eans>
+<Ean>
+<Code>10090611</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10094924</Id>
+<Name>(V) CERVEJA KAISER LT 473ML</Name>
+<Eans>
+<Ean>
+<Code>10094924</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10095315</Id>
+<Name>(V) ARROZ L FINO 5KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>10095315</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10095522</Id>
+<Name>(V) ACUCAR CRISTAL 5KG-PC</Name>
+<Eans>
+<Ean>
+<Code>10095522</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10095523</Id>
+<Name>(V) ACUCAR CRISTAL 2KG PC</Name>
+<Eans>
+<Ean>
+<Code>10095523</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10097081</Id>
+<Name>(V) DETERG PO OMO 2KG-CX M-ACAO</Name>
+<Eans>
+<Ean>
+<Code>10097081</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10097727</Id>
+<Name>(V) DESINF PINHO SOL 500ML/PG450ML</Name>
+<Eans>
+<Ean>
+<Code>10097727</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>10098108</Id>
+<Name>(V) SAB LUX SV HID 90G BCO BOUQUE SONHO</Name>
+<Eans>
+<Ean>
+<Code>10098108</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7009</Id>
+<Name>CORPO E ROSTO</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100101351</Id>
+<Name>(V) REFRIG COCA PET-2L COLA TRAD</Name>
+<Eans>
+<Ean>
+<Code>100101351</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100101777</Id>
+<Name>(V) OLEO SOJA 9L-LT</Name>
+<Eans>
+<Ean>
+<Code>100101777</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100102349</Id>
+<Name>(V) FEIJAO CARIOCA 1KG-PC TP1 CLARO</Name>
+<Eans>
+<Ean>
+<Code>100102349</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100103204</Id>
+<Name>(V) ARROZ L FINO OURO BRANCO 5KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>100103204</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100103672</Id>
+<Name>(V) CERVEJA BUDWEISER LN-343ML</Name>
+<Eans>
+<Ean>
+<Code>100103672</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100106442</Id>
+<Name>(V) CAFE PO BARAO FORTE D+ 500G-PC</Name>
+<Eans>
+<Ean>
+<Code>100106442</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100108135</Id>
+<Name>(V) LEITE QUATA LVIDA 1L-TP</Name>
+<Eans>
+<Ean>
+<Code>100108135</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6228</Id>
+<Name>P.A.S.</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>100108294</Id>
+<Name>(V) OLEO SOJA 18L-LT</Name>
+<Eans>
+<Ean>
+<Code>100108294</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2001073</Id>
+<Name>(A) LEITE COND MOCA 395G-LT TRAD</Name>
+<Eans>
+<Ean>
+<Code>2001073</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5398</Id>
+<Name>CONFEITARIA-PAD LINHA DOM</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2001144</Id>
+<Name>(A) REFRIG ANTARCTICA LT-350ML</Name>
+<Eans>
+<Ean>
+<Code>2001144</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2005269</Id>
+<Name>(A) LEITE LVIDA ITAMBE 1L-TP</Name>
+<Eans>
+<Ean>
+<Code>2005269</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6228</Id>
+<Name>P.A.S.</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2005283</Id>
+<Name>(A) MANTEIGA ITAMBE 500G-PT 1º QUALID</Name>
+<Eans>
+<Ean>
+<Code>2005283</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6228</Id>
+<Name>P.A.S.</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20057748</Id>
+<Name>(A) LASANHA SADIA 650G-CX</Name>
+<Eans>
+<Ean>
+<Code>20057748</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6228</Id>
+<Name>P.A.S.</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20066065</Id>
+<Name>(A) ACHOC PO NESCAU 400G-LT</Name>
+<Eans>
+<Ean>
+<Code>20066065</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20094924</Id>
+<Name>(A) CERVEJA KAISER LT 473ML</Name>
+<Eans>
+<Ean>
+<Code>20094924</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>200108135</Id>
+<Name>(A) LEITE QUATA LVIDA 1L-TP</Name>
+<Eans>
+<Ean>
+<Code>200108135</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6228</Id>
+<Name>P.A.S.</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20028</Id>
+<Name>(A) CAFE PO BARAO 500G-PC</Name>
+<Eans>
+<Ean>
+<Code>20028</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>200121</Id>
+<Name>(A) DETERG LIQ YPE 500ML-FR</Name>
+<Eans>
+<Ean>
+<Code>200121</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>200973</Id>
+<Name>(A) CERVEJA SKOL LN-355ML PILSEN</Name>
+<Eans>
+<Ean>
+<Code>200973</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>200979</Id>
+<Name>(A) CERVEJA SKOL LT-350ML</Name>
+<Eans>
+<Ean>
+<Code>200979</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>200981</Id>
+<Name>(A) CERVEJA SKOL LT-473ML</Name>
+<Eans>
+<Ean>
+<Code>200981</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2001044</Id>
+<Name>(A) REFRIG PEPSI PET-2L COLA</Name>
+<Eans>
+<Ean>
+<Code>2001044</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2001137</Id>
+<Name>(A) REFRIG ANTARCTICA PET-2L GUARANA</Name>
+<Eans>
+<Ean>
+<Code>2001137</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2001633</Id>
+<Name>(A) AMAC ROUPA COMFORT 2L-FR</Name>
+<Eans>
+<Ean>
+<Code>2001633</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2001678</Id>
+<Name>(A) DETERG PO OMO 500G-CX</Name>
+<Eans>
+<Ean>
+<Code>2001678</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2002005</Id>
+<Name>(A) SH SEDA 350ML-FR</Name>
+<Eans>
+<Ean>
+<Code>2002005</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6964</Id>
+<Name>CABELOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2002047</Id>
+<Name>(A) FAR TRIGO VILMA ESP 1KG-PC</Name>
+<Eans>
+<Ean>
+<Code>2002047</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2002066</Id>
+<Name>(A) ARROZ L FINO CAMIL 5KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>2002066</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2002429</Id>
+<Name>(A) MARG QUALY 500G-PT</Name>
+<Eans>
+<Ean>
+<Code>2002429</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6228</Id>
+<Name>P.A.S.</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2003620</Id>
+<Name>(A) ARROZ L FINO TIO JOAO 5KG-PC</Name>
+<Eans>
+<Ean>
+<Code>2003620</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2005279</Id>
+<Name>(A) LEITE LVIDA ITAMBE 1L-TP S-DESNAT</Name>
+<Eans>
+<Ean>
+<Code>2005279</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6228</Id>
+<Name>P.A.S.</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20025700</Id>
+<Name>(A) DESINF PINHO SOL 1L-FR</Name>
+<Eans>
+<Ean>
+<Code>20025700</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20055854</Id>
+<Name>(A) FD T MONICA TRIPLA-PROT JUMBO</Name>
+<Eans>
+<Ean>
+<Code>20055854</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7071</Id>
+<Name>LINHA INFANTIL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20079558</Id>
+<Name>(A) ARROZ L FINO PILECCO 5KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>20079558</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>200102349</Id>
+<Name>(A) FEIJAO CARIOCA 1KG-PC TP1 CLARO</Name>
+<Eans>
+<Ean>
+<Code>200102349</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>200103204</Id>
+<Name>(A) ARROZ L FINO OURO BRANCO 5KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>200103204</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>200106442</Id>
+<Name>(A) CAFE PO BARAO FORTE D+ 500G-PC</Name>
+<Eans>
+<Ean>
+<Code>200106442</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2001172</Id>
+<Name>(A) CERVEJA KAISER LT-350ML PILSEN</Name>
+<Eans>
+<Ean>
+<Code>2001172</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2004543</Id>
+<Name>(A) BOMB GAROTO SORT 400G-CX</Name>
+<Eans>
+<Ean>
+<Code>2004543</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7382</Id>
+<Name>BOMBONIERE</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2005442</Id>
+<Name>(A) ARROZ L FINO PRATO FINO 5KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>2005442</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2008343</Id>
+<Name>(A) ARROZ L FINO TIA JU 5KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>2008343</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20071333</Id>
+<Name>(A) REFRIG ANTARCTICA PET-2L SODA</Name>
+<Eans>
+<Ean>
+<Code>20071333</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20076012</Id>
+<Name>(A) CERVEJA STELLA ARTOIS LN-275ML</Name>
+<Eans>
+<Ean>
+<Code>20076012</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20084143</Id>
+<Name>(A) CAFE VACUO 3CORACOES PREM 500G-CX</Name>
+<Eans>
+<Ean>
+<Code>20084143</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20085740</Id>
+<Name>(A) OLEO SOJA 900ML-PET</Name>
+<Eans>
+<Ean>
+<Code>20085740</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20095315</Id>
+<Name>(A) ARROZ L FINO 5KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>20095315</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20095523</Id>
+<Name>(A) ACUCAR CRISTAL 2KG PC</Name>
+<Eans>
+<Ean>
+<Code>20095523</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20097727</Id>
+<Name>(A) DESINF PINHO SOL 500ML/PG450ML</Name>
+<Eans>
+<Ean>
+<Code>20097727</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>200993</Id>
+<Name>(A) REFRIG DELREY 2L-PET</Name>
+<Eans>
+<Ean>
+<Code>200993</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20064223</Id>
+<Name>(A) REFRIG COCA PET-1,5L</Name>
+<Eans>
+<Ean>
+<Code>20064223</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20069639</Id>
+<Name>(A) SALSICHA HOT-DOG KG RESFD</Name>
+<Eans>
+<Ean>
+<Code>20069639</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5935</Id>
+<Name>ACOUGUE</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20076339</Id>
+<Name>(A) DETERG PO TIXAN 1KG-CX</Name>
+<Eans>
+<Ean>
+<Code>20076339</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20080166</Id>
+<Name>(A) CERVEJA ITAIPAVA LT-473ML</Name>
+<Eans>
+<Ean>
+<Code>20080166</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20095522</Id>
+<Name>(A) ACUCAR CRISTAL 5KG-PC</Name>
+<Eans>
+<Ean>
+<Code>20095522</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2002698</Id>
+<Name>(A) SALSICHA SADIA HOT-DOG KG SAH</Name>
+<Eans>
+<Ean>
+<Code>2002698</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5935</Id>
+<Name>ACOUGUE</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2003321</Id>
+<Name>(A) BOMB LACTA GDES SUCESSOS 400G-CX</Name>
+<Eans>
+<Ean>
+<Code>2003321</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7382</Id>
+<Name>BOMBONIERE</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2004516</Id>
+<Name>(A) ACHOC PO TODDY 800G-PT</Name>
+<Eans>
+<Ean>
+<Code>2004516</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2004525</Id>
+<Name>(A) BEB LAC TODDYNHO 200ML-TP</Name>
+<Eans>
+<Ean>
+<Code>2004525</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6228</Id>
+<Name>P.A.S.</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2005460</Id>
+<Name>(A) ACUCAR REF UNIAO 1KG-PC</Name>
+<Eans>
+<Ean>
+<Code>2005460</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20053169</Id>
+<Name>(A) FEIJAO CARIOCA TRYUMPHO 1KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>20053169</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20079932</Id>
+<Name>(A) CERVEJA BRAHMA LT-473ML</Name>
+<Eans>
+<Ean>
+<Code>20079932</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20084703</Id>
+<Name>(A) ACUCAR CRISTAL CAETE 5KG-PC</Name>
+<Eans>
+<Ean>
+<Code>20084703</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20086746</Id>
+<Name>(A) REFRIG COCA PET-1,5L COLA</Name>
+<Eans>
+<Ean>
+<Code>20086746</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20086751</Id>
+<Name>(A) REFRIG COCA LT-350ML COLA</Name>
+<Eans>
+<Ean>
+<Code>20086751</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20087159</Id>
+<Name>(A) REFRIG COCA PET-2L ZERO</Name>
+<Eans>
+<Ean>
+<Code>20087159</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20090611</Id>
+<Name>(A) CERVEJA ANTARCTICA SUBZERO LT-350ML</Name>
+<Eans>
+<Ean>
+<Code>20090611</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>200240</Id>
+<Name>(A) CAFE PO 3CORACOES 250G-PC</Name>
+<Eans>
+<Ean>
+<Code>200240</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>200645</Id>
+<Name>(A) FAR TRIGO BOA SORTE ESP 1KG-PC</Name>
+<Eans>
+<Ean>
+<Code>200645</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>200700</Id>
+<Name>(A) VODKA ORLOFF 1L-GF</Name>
+<Eans>
+<Ean>
+<Code>200700</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>200974</Id>
+<Name>(A) CERVEJA BRAHMA LT-350ML</Name>
+<Eans>
+<Ean>
+<Code>200974</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2001255</Id>
+<Name>(A) ESPONJA LA ACO BOMBRIL 60G-PC C8</Name>
+<Eans>
+<Ean>
+<Code>2001255</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2001751</Id>
+<Name>(A) SAB LUX SV HID 90G</Name>
+<Eans>
+<Ean>
+<Code>2001751</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7009</Id>
+<Name>CORPO E ROSTO</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20055806</Id>
+<Name>(A) FEIJAO CARIOCA TRYUMPHO 5KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>20055806</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20056623</Id>
+<Name>(A) ACUCAR REF NEVE 1KG-PC</Name>
+<Eans>
+<Ean>
+<Code>20056623</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20068554</Id>
+<Name>(A) CERVEJA HEINEKEN PREM LN-355ML</Name>
+<Eans>
+<Ean>
+<Code>20068554</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20069735</Id>
+<Name>(A) CAFE PO FINO-GRAO 500G-PC</Name>
+<Eans>
+<Ean>
+<Code>20069735</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20074833</Id>
+<Name>(A) CAFE PO 3CORACOES 500G-PC FORT</Name>
+<Eans>
+<Ean>
+<Code>20074833</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20074929</Id>
+<Name>(A) MAIONESE HELLMANNS 500G-PET</Name>
+<Eans>
+<Ean>
+<Code>20074929</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5227</Id>
+<Name>CONSERVAS-CONDIMENTOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20085394</Id>
+<Name>(A) DETERG PO ARIEL OXIAZUL 1KG-CX</Name>
+<Eans>
+<Ean>
+<Code>20085394</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20087377</Id>
+<Name>(A) CERVEJA SKOL LT-269ML</Name>
+<Eans>
+<Ean>
+<Code>20087377</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20097081</Id>
+<Name>(A) DETERG PO OMO 2KG-CX M-ACAO</Name>
+<Eans>
+<Ean>
+<Code>20097081</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>200455</Id>
+<Name>(A) DESINF PINHO SOL 500ML-FR</Name>
+<Eans>
+<Ean>
+<Code>200455</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>200833</Id>
+<Name>(A) BOMB NESTLE ESPECIALID 400G-CX</Name>
+<Eans>
+<Ean>
+<Code>200833</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7382</Id>
+<Name>BOMBONIERE</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2001243</Id>
+<Name>(A) DETERG LIQ LIMPOL 500ML-FR</Name>
+<Eans>
+<Ean>
+<Code>2001243</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2002085</Id>
+<Name>(A) FEIJAO CARIOCA PINK 1KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>2002085</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2003328</Id>
+<Name>(A) CHOC LACTA BIS 20UN-CX</Name>
+<Eans>
+<Ean>
+<Code>2003328</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7382</Id>
+<Name>BOMBONIERE</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2004513</Id>
+<Name>(A) ACHOC PO TODDY 400G-PT</Name>
+<Eans>
+<Ean>
+<Code>2004513</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20057948</Id>
+<Name>(A) LEITE LVIDA 1L-TP</Name>
+<Eans>
+<Ean>
+<Code>20057948</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6228</Id>
+<Name>P.A.S.</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20064066</Id>
+<Name>(A) DETERG PO OMO 1KG-CX</Name>
+<Eans>
+<Ean>
+<Code>20064066</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20080148</Id>
+<Name>(A) OLEO SOJA LIZA 900ML-PET</Name>
+<Eans>
+<Ean>
+<Code>20080148</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20082469</Id>
+<Name>(A) ACHOC PO NESCAU 2.0 800G-SACHE</Name>
+<Eans>
+<Ean>
+<Code>20082469</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20098108</Id>
+<Name>(A) SAB LUX SV HID 90G BCO BOUQUE SONHO</Name>
+<Eans>
+<Ean>
+<Code>20098108</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7009</Id>
+<Name>CORPO E ROSTO</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>200241</Id>
+<Name>(A) CAFE PO 3CORACOES 500G-PC</Name>
+<Eans>
+<Ean>
+<Code>200241</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>200242</Id>
+<Name>(A) CAFE VACUO 3CORACOES 500G-CX</Name>
+<Eans>
+<Ean>
+<Code>200242</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2001012</Id>
+<Name>(A) REFRIG PEPSI LT-350ML COLA</Name>
+<Eans>
+<Ean>
+<Code>2001012</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2001171</Id>
+<Name>(A) CERVEJA HEINEKEN LT-350ML</Name>
+<Eans>
+<Ean>
+<Code>2001171</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2001178</Id>
+<Name>(A) REFRIG COCA LT-350ML COLA ZERO</Name>
+<Eans>
+<Ean>
+<Code>2001178</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>4845</Id>
+<Name>BEBIDAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2002088</Id>
+<Name>(A) FEIJAO PTO PINK 1KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>2002088</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2002258</Id>
+<Name>(A) LIMP VEJA M-USO 500ML-SQZ</Name>
+<Eans>
+<Ean>
+<Code>2002258</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7174</Id>
+<Name>LIMPEZA GERAL</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2004435</Id>
+<Name>(A) FEIJAO CARIOCA GALANTE 1KG-PC T1</Name>
+<Eans>
+<Ean>
+<Code>2004435</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>2005221</Id>
+<Name>(A) LEITE LVIDA COTOCHES 1L-TP</Name>
+<Eans>
+<Ean>
+<Code>2005221</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6228</Id>
+<Name>P.A.S.</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20011060</Id>
+<Name>(A) CAFE PO PILAO 500G-PC</Name>
+<Eans>
+<Ean>
+<Code>20011060</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5293</Id>
+<Name>MATINAIS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20058882</Id>
+<Name>(A) LEITE LVIDA CEMIL 1L-TP</Name>
+<Eans>
+<Ean>
+<Code>20058882</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>6228</Id>
+<Name>P.A.S.</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20062820</Id>
+<Name>(A) FILE PEITO FGO BIG-FRANGO KG CONG</Name>
+<Eans>
+<Ean>
+<Code>20062820</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>7718</Id>
+<Name>AVES DIVERSAS</Name>
+</ProductSection>
+</Product>
+</Question>
+<Question>
+<Status>1</Status>
+<CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" />
+<Product>
+<Id>20086825</Id>
+<Name>(A) FEIJAO CARIOCA APETITE 5KG-PC</Name>
+<Eans>
+<Ean>
+<Code>20086825</Code>
+</Ean>
+</Eans>
+<ProductSection>
+<Id>5166</Id>
+<Name>CEREAIS-MASSAS-OLEOS</Name>
+</ProductSection>
+</Product>
+</Question>
+</Questions>
+</Survey>

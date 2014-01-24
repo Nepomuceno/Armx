@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSurvey>
+    <Survey>
+        <Status xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <Code>321</Code>
+        <Store>
+            <Id>210782</Id>
+            <Name>MAKRO</Name>
+        </Store>
+        <Questions>
+            <Question>
+                <Status>1</Status>
+                <CollectedDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <Price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <Product>
+                    <Id>1386</Id>
+                    <Name>VELA MARIANA 35G CX-8UN</Name>
+                    <Eans>
+                        <Ean>
+                            <Code>7891242294158</Code>
+                        </Ean>
+                        <Ean>
+                            <Code>7891242295957</Code>
+                        </Ean>
+                    </Eans>
+                    <ProductSection>
+                        <Id>5568</Id>
+                        <Name>UTILIDADES DOMESTICAS</Name>
+                    </ProductSection>
+                </Product>
+            </Question>
+            <Ean>
+                <Code>7898422745578</Code>
+            </Ean>
+            <Ean>
+                <Code>7898422748388</Code>
+            </Ean>
+        </Questions>
+    </Survey>
+</ArrayOfSurvey>
